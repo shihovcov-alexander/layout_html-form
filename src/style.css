@@ -1,1 +1,12 @@
 /* styles go here */
+.form-field {
+  padding: 0 0 10px;
+}
+
+fieldset .form-field:last-of-type {
+  padding: 0;
+}
+
+fieldset {
+  margin: 0 2px 20px;
+}
